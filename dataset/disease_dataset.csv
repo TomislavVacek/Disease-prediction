@@ -1,0 +1,7 @@
+itching,skin_rash,nodal_skin_eruptions,continuous_sneezing,shivering,chills,joint_pain,stomach_pain,acidity,vomiting,fatigue,anxiety,mood_swings,weight_loss,restlessness,lethargy,patches_in_throat,cough,high_fever,breathlessness,prognosis
+1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Fungal infection
+0,0,0,1,1,1,0,0,0,0,1,0,0,0,0,0,0,1,1,0,Common Cold
+0,0,0,0,0,0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,GERD
+0,0,0,0,1,1,0,0,0,1,1,1,1,1,1,1,0,0,1,0,Anxiety
+0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,1,1,1,Pneumonia
+1,1,0,0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,0,0,Psoriasis
